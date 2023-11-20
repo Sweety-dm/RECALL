@@ -2,7 +2,7 @@
 
 This is the code and experimental results for the paper `Replay-enhanced Continual Reinforcement Learning`. 
 It proposes a method called `RECALL` for replay-based continual reinforcement learning, which is experimentally
-validated on the [Continual World](https://github.com/awarelab/continual_world) benchmark.
+validated on the [Continual World](https://github.com/awarelab/continual_world) benchmark and accepted as is in TMLR 2023.
 
 See also the [paper](https://openreview.net/pdf?id=91hfMEUukm) and
 the [OpenReview Website](https://openreview.net/forum?id=91hfMEUukm).
